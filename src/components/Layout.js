@@ -11,7 +11,7 @@ export default function Layout({ children }) {
               <div className="bg-blue-600 p-2 rounded-lg">
                 <Link2 className="text-white" size={24} />
               </div>
-              <span>URL Shortener</span>
+              <span>Tiny-Link</span>
             </Link>
             <nav className="flex items-center gap-2">
               <Link 
